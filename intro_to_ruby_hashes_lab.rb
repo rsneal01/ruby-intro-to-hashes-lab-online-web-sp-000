@@ -4,6 +4,7 @@ end
 
 def actor
   actor = {actor: "Dwayne The Rock Johnson"}
+  actor
 end
 
 def monopoly
